@@ -32,7 +32,8 @@ add_dependencies(${TARGET_NAME} CopyTarget)
 ```
 
 ## 📄 License
-Assets in this repository are subject to their respective licenses. If you are using third-party models or textures, make sure to review their terms of use.
+
+Assets in this repository are subject to their respective licenses.
 
 <br>
 <br>
