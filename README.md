@@ -31,9 +31,11 @@ add_dependencies(${TARGET_NAME} CopyTarget)
 
 ```
 
-## 📄 License
+## 📄 License & Resources
 
-Assets in this repository are subject to their respective licenses.
+Assets in this repository are subject to their respective licenses. <br>
+
+Sponza Scene downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data). <br>
 
 <br>
 <br>
