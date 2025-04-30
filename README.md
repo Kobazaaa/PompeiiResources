@@ -1,4 +1,4 @@
-# 📦 Project Resources
+# 📦 Pompeii Resources
 
 This repository contains models, textures, and potentially other asset files used by my main project: [Pompeii](https://github.com/Kobazaaa/Pompeii.git).
 <br>
@@ -39,4 +39,4 @@ Assets in this repository are subject to their respective licenses.
 <br>
 <br>
 
-Maintained by Kobe Dereyne.
+Created (and maintained) by Kobe Dereyne.
