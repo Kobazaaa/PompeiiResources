@@ -36,6 +36,7 @@ add_dependencies(${TARGET_NAME} CopyTarget)
 Assets in this repository are subject to their respective licenses. <br>
 
 Sponza Scene downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data). <br>
+glTF Sponza Scene downloaded from [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets). <br>
 
 <br>
 <br>
