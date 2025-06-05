@@ -33,10 +33,15 @@ add_dependencies(${TARGET_NAME} CopyTarget)
 
 ## 📄 License & Resources
 
-Assets in this repository are subject to their respective licenses. <br>
+Assets in this repository are subject to their respective licenses, which you can find under the "model licences" subdirectory.<br>
 
-Sponza Scene downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data). <br>
-glTF Sponza Scene downloaded from [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets). <br>
+|Model| Format                                |Source|
+|-----------|----------------------------------------|------------------|
+|Sponza Crytek| .obj | Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data). |
+|Sponza| .gltf | Khronos Group's [glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Sponza). |
+|A Beautiful Game| .gltf | Khronos Group's [glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/ABeautifulGame). |
+|Flight Helmet| .gltf | Khronos Group's [glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/FlightHelmet). |
+|Metal Rough Spheres| .gltf | Khronos Group's [glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MetalRoughSpheres). |
 
 <br>
 <br>
